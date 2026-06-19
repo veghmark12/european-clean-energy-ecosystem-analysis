@@ -1,1 +1,2 @@
-
+Raw data was downloaded from JRC (Joint Research Centre, European Commission) and Dealroom for the scaleups and investors. Sources for the university and accelerators data can be seen in the presentation folder.
+After data cleaning and filtering 947 scaleups from the EU were selected and together with the investors, universities and accelerators they were clustered to FUAs (Functional Urban Areas).
