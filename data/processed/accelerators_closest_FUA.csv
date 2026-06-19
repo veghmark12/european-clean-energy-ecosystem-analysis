@@ -1,0 +1,376 @@
+﻿#,Investor Name,HQ Country,HQ City,Latitude,Longitude,Closest FUA
+1,Plus Impact,Sweden,Stockholm,59.3251172,18.0710935,Stockholm
+2,1Kubator,France,Lyon,45.7578137,4.8320114,Lyon
+3,5starts,Austria,Vienna,48.2083537,16.3725042,Wien
+4,21st by CentraleSupélec,France,Gif-Sur-Yvette,48.7018823,2.134529,Paris
+5,70Ventures,Lithuania,Vilnius,54.6870458,25.2829111,Vilnius
+6,321founded,France,Paris,48.8534951,2.3483915,Paris
+7,A1 Start Up Campus,Austria,Vienna,48.2083537,16.3725042,Wien
+8,Accelerace,Denmark,Copenhagen,55.6867243,12.5700724,København
+9,AccelGrow,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+10,Accelpoint,Poland,Warsaw,52.2319581,21.0067249,Warszawa
+11,Acciona I'mnovation,Spain,Alcobendas,40.5400082,-3.6358494,Madrid
+12,Acciona Imnovation,Spain,Madrid,40.4167047,-3.7035825,Madrid
+14,Agoranov,France,Paris,48.8534951,2.3483915,Paris
+15,Agro Innovation Lab,Austria,Gemeinde Wien,48.294579,16.4679227,Wien
+16,AgTechUCD Agccelerator Pr…,Ireland,Dublin,53.3493795,-6.2605593,Dublin
+17,Airbus Bizlabs,France,Colomiers,43.6121001,1.3282149,Toulouse
+18,Airbus Bizlabs (closed),France,Colomiers,43.6121001,1.3282149,Toulouse
+19,Alhambra Venture,Spain,Peligros,37.2306631,-3.6279744,Granada
+20,Antai Venture Builder,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+21,Antai Ventures,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+22,Arctic Business Incubator,Sweden,Lulea,65.5831187,22.1459535,Oulu/Uleåborg
+23,Arete Investment,Hungary,Budapest,47.4978789,19.0402383,Budapest
+24,Arkley Launchpad,Poland,Warsaw,52.2319581,21.0067249,Warszawa
+25,Astropreneurs,Portugal,Coimbra,40.2111931,-8.4294632,Coimbra
+26,Axel Springer Plug and Play …,Germany,Berlin,52.510885,13.3989367,Berlin
+27,Axeltim,France,Lyon,45.7578137,4.8320114,Lyon
+28,B Accelerator Tower (BAT),Spain,Bilbao,43.2630018,-2.9350039,Bilbao
+29,B4i - Bocconi for innovation,Italy,Milan,45.4641943,9.1896346,Milano
+30,Baltic Sandbox,Lithuania,Vilnius,54.6870458,25.2829111,Vilnius
+31,Bar Lab by Mahou San Miguel,Spain,Madrid,40.4167047,-3.7035825,Madrid
+32,Basque Culinary Center - Cu…,Spain,San Sebastian,43.3224219,-1.9838889,San Sebastián/Donostia
+33,BBVA Spark,Spain,Madrid,40.4167047,-3.7035825,Madrid
+34,BEAZ,Spain,Bilbao,43.2630018,-2.9350039,Bilbao
+35,"Berkeley SkyDeck Europe, M…",Italy,Milan,45.4641943,9.1896346,Milano
+36,Berlin Founders Fund by Sili…,Germany,Berlin,52.510885,13.3989367,Berlin
+37,Berlin Innovation Agency,Germany,Berlin,52.510885,13.3989367,Berlin
+38,BerriUp,Spain,San Sebastian,43.3224219,-1.9838889,San Sebastián/Donostia
+40,Beta-i,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+41,Beuth Hochschule Startup h…,Germany,Berlin,52.510885,13.3989367,Berlin
+42,BIC Araba,Spain,Vitoria,42.8465088,-2.6724025,Vitoria/Gasteiz
+43,BIC Bizkaia,Spain,Bilbao,43.2630018,-2.9350039,Bilbao
+44,BIC Gipuzkoa,Spain,San Sebastian,43.3224219,-1.9838889,San Sebastián/Donostia
+45,BIC Innov'up,France,Nimes,43.8374249,4.3600687,Nîmes
+46,BIND - Basque Open Innova…,Spain,Bilbao,43.2630018,-2.9350039,Bilbao
+47,BIND 4.0 - Basque Open Inn…,Spain,Bilbao,43.2630018,-2.9350039,Bilbao
+48,BIO HUB VLC,Spain,Valencia,39.4697065,-0.3763353,Valencia
+49,BiovelocITA,Italy,Milan,45.4641943,9.1896346,Milano
+50,Birdhouse,Belgium,Antwerp,51.2211097,4.3997081,Antwerpen
+51,Bitspiration Booster,Poland,Kraków,50.0619474,19.9368564,Kraków
+52,Blockchers,Spain,Navarra,42.6125488,-1.8307877,Pamplona/Iruña
+54,BlueHealth Innovation Center,Belgium,Winterslag,50.9771632,5.4858516,Maastricht
+55,Borean Innovation,Denmark,Aalborg,57.0462626,9.9215263,Aalborg
+56,Bosch Startup Harbour,Germany,Berlin,52.510885,13.3989367,Berlin
+58,BSH Accelerator,Germany,Munich,48.1371079,11.5753822,München
+59,Building Global Innovators,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+60,Buildit Accelerator,Latvia,Riga,56.9493977,24.1051846,Riga
+61,Built Environment Circular C…,Germany,Berlin,52.510885,13.3989367,Berlin
+62,Caixabank DayOne,Spain,Madrid,40.4167047,-3.7035825,Madrid
+63,CaixaImpulse,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+64,CapsuleT Travel & Hospitalit…,Greece,Athens,37.9755648,23.7348324,Athina
+66,Cariplo Factory,Italy,Milan,45.4641943,9.1896346,Milano
+67,Casa do Impacto,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+68,Cassini Business Accelerator,Belgium,Brussels,50.8465573,4.351697,Mechelen
+69,CDP- Acceleratore Imprese,Italy,Anzio,41.4471008,12.6285618,Latina
+70,CEEI NCA,France,Nice,43.7009358,7.2683912,Nice
+71,Centre for Entrepreneurship…,Germany,Berlin,52.510885,13.3989367,Berlin
+72,CESAH,Germany,Darmstadt,49.8851869,8.6736295,Darmstadt
+73,Cesah,Germany,Darmstadt,49.8851869,8.6736295,Darmstadt
+74,cesah GmbH,Germany,Darmstadt,49.8851869,8.6736295,Darmstadt
+75,Chemovator,Germany,Mannheim,49.4892913,8.4673098,Mannheim-Ludwigshafen
+77,Club Acceleratori,Italy,Milan,45.4641943,9.1896346,Milano
+78,Co-pace,Germany,Frankfurt,50.1106444,8.6820917,Frankfurt am Main
+79,Co-pace,Germany,Frankfurt,50.1106444,8.6820917,Frankfurt am Main
+80,CODE Entrepreneurship,Germany,Berlin,52.510885,13.3989367,Berlin
+81,Commercialization Reactor,Latvia,Riga,56.9493977,24.1051846,Riga
+82,Conector Startup Accelerator,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+83,Correos Labs,Spain,Madrid,40.4167047,-3.7035825,Madrid
+84,Crealia,France,Paris,48.8534951,2.3483915,Paris
+85,Cuatrecasas Acelera,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+86,Culinary Action!,Spain,San Sebastian,43.3224219,-1.9838889,San Sebastián/Donostia
+87,Daftcode,Poland,Warsaw,52.2319581,21.0067249,Warszawa
+88,Dangerous Venture Studio,Italy,Bologna,44.4938203,11.3426327,Bologna
+89,Day One,Greece,Athens,37.9755648,23.7348324,Athina
+90,Day One Partners - L'Accele…,France,Paris,48.8534951,2.3483915,Paris
+91,DB Accelerator,Germany,Berlin,52.510885,13.3989367,Berlin
+92,DeFi Alliance,Greece,Attica,37.7561803,23.6669006,Athina
+93,Demium,Spain,Valencia,39.4697065,-0.3763353,Valencia
+94,Demium Capital,Spain,Valencia,39.4697065,-0.3763353,Valencia
+95,Desafia,Spain,Bilbao,43.2630018,-2.9350039,Bilbao
+96,DesignFarmBerlin,Germany,Berlin,52.510885,13.3989367,Berlin
+97,Digital Hub Region Bonn,Germany,Bonn,50.7352621,7.1024635,Bonn
+98,Digital Magics,Italy,Milan,45.4641943,9.1896346,Milano
+99,Discoveries,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+100,Disruption by Delta ventures,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+101,Djäkne Startup Studio,Sweden,Malmo,55.6052931,13.0001566,Malmö
+102,Dock3 - The Startup Lab,Italy,Rome,41.8933203,12.4829321,Roma
+103,Dogpatch Labs NDRC Accel…,Ireland,Dublin,53.3493795,-6.2605593,Dublin
+104,Drukka,Hungary,Budapest,47.4978789,19.0402383,Budapest
+106,E.ON :agile accelerator,Germany,Düsseldorf,51.2254018,6.7763137,Düsseldorf
+107,EDP Starter,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+108,EduLAB EdTech Accellerator,Poland,Warsaw,52.2319581,21.0067249,Warszawa
+110,EIT Digital Accelerator,Belgium,Brussels,50.8465573,4.351697,Mechelen
+111,EIT FAN Helsinki (Food Acce…,Spain,Bilbao,43.2630018,-2.9350039,Bilbao
+112,EIT Food,Belgium,Leuven,50.879202,4.7011675,Bruxelles/Brussel/Leuven
+113,EIT Health,Germany,Munich,48.1371079,11.5753822,München
+114,EIT Health e.V.,Germany,Munich,48.1371079,11.5753822,München
+117,EIT Manufacturing,France,Palaiseau,48.7144587,2.2453842,Paris
+118,EIT RawMaterials,Germany,Berlin,52.510885,13.3989367,Berlin
+119,EIT Urban Mobility,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+120,Elevate AUBG,Bulgaria,Blagoevgrad,41.750287,23.4873411,Blagoevgrad
+121,Elevator Lab Challenge,Austria,Vienna,48.2083537,16.3725042,Wien
+122,Elevator Lab Challenge by R…,Austria,Vienna,48.2083537,16.3725042,Wien
+123,Eleven Accelerator Venture …,Bulgaria,Sofia,42.6977028,23.3217359,Sofia
+124,Elewit,Spain,Madrid,40.4167047,-3.7035825,Madrid
+125,Emerge Accelerator,France,Paris,48.8534951,2.3483915,Paris
+126,Endeavor Bulgaria,Bulgaria,Sofia,42.6977028,23.3217359,Sofia
+127,ESA BIC AUSTRIA,Austria,Graz,47.0708678,15.4382786,Graz
+128,ESA BIC Austria,Austria,Vienna,48.2083537,16.3725042,Wien
+129,ESA BIC Baden-Württemberg,Germany,Kusterdingen,48.5027717,9.1137828,Tübingen
+130,ESA BIC Barcelona,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+131,ESA BIC Bavaria,Germany,Gilching,48.1140289,11.2921549,München
+133,ESA BIC DENMARK,Denmark,Lyngby-Taarbaek,55.7846379,12.5046096,København
+134,ESA BIC ESTONIA,Estonia,Tartu,58.3801207,26.72245,Tartu
+135,ESA BIC Estonia,Estonia,Tartu,58.3801207,26.72245,Tartu
+136,ESA BIC Finland,Finland,Espoo,60.2049651,24.6559808,Helsinki/Helsingfors
+137,ESA BIC Hessen,Germany,Darmstadt,49.8851869,8.6736295,Darmstadt
+138,ESA BIC HUNGARY,Hungary,Budapest,47.4978789,19.0402383,Budapest
+139,ESA BIC IRELAND,Ireland,Cork,51.8985136,-8.4726423,Cork
+140,ESA BIC Madrid Region,Spain,Madrid,40.4167047,-3.7035825,Madrid
+142,ESA BIC NORD FRANCE,France,Longpont-Sur-Orge,48.64262,2.2919546,Paris
+143,ESA BIC Nord France,France,Longpont-Sur-Orge,48.64262,2.2919546,Paris
+144,ESA BIC North Rhine-Westp…,Germany,Aachen,50.776351,6.083862,Aachen
+145,ESA BIC PORTUGAL,Portugal,Coimbra,40.2111931,-8.4294632,Coimbra
+146,ESA BIC SUD FRANCE,France,Toulouse,43.6044622,1.4442469,Toulouse
+147,ESA BIC Sweden,Sweden,Luleå,65.5831187,22.1459535,Oulu/Uleåborg
+148,ESA BIC Turin,Italy,Turin,45.0677551,7.6824892,Torino
+149,ESA Space Solutions Belgium,Belgium,Kruibeke,51.1712275,4.3091107,Antwerpen
+150,EuraTechnologies,France,Lille,50.6365654,3.0635282,Lille
+151,European Data Incubator,Spain,Bilbao,43.2630018,-2.9350039,Bilbao
+152,Eywa,Spain,San Sebastian,43.3224219,-1.9838889,San Sebastián/Donostia
+153,Fábrica de Startups,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+154,FabriQ Milano,Italy,Milan,45.4641943,9.1896346,Milano
+156,Fast Track Malmö,Sweden,Malmo,55.6052931,13.0001566,Malmö
+157,Female Founders,Austria,Vienna,48.2083537,16.3725042,Wien
+158,FI-C3,Belgium,Brussels,50.8465573,4.351697,Mechelen
+159,FINODEX,Spain,Madrid,40.4167047,-3.7035825,Madrid
+160,FIWARE,Germany,Berlin,52.510885,13.3989367,Berlin
+161,Fondazione Filarete,Italy,Milan,45.4641943,9.1896346,Milano
+162,Founder Institute Berlin,Germany,Berlin,52.510885,13.3989367,Berlin
+163,Founders (Denmark),Denmark,Copenhagen,55.6867243,12.5700724,København
+164,Founders Denmark,Denmark,Copenhagen,55.6867243,12.5700724,København
+165,From Start-to-Table,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+166,FrontierCities2,Belgium,Ixelles,50.8331141,4.3668279,Mechelen
+167,Fundacion Innovacion Banki…,Spain,Alcobendas,40.5400082,-3.6358494,Madrid
+168,Funding for Innovators by U…,Germany,Munich,48.1371079,11.5753822,München
+169,FundingBox,Spain,Madrid,40.4167047,-3.7035825,Madrid
+170,Furthr (formerly Dublin Busi…,Ireland,Dublin,53.3493795,-6.2605593,Dublin
+171,Future Champions Accelerat…,Germany,Duisburg,51.434999,6.759562,Krefeld
+172,Future City Incubator,Germany,Berlin,52.510885,13.3989367,Berlin
+173,G2 Startups,Italy,Milan,45.4641943,9.1896346,Milano
+174,GELLIFY,Italy,Bologna,44.4938203,11.3426327,Bologna
+175,Global Entrepreneurship Ce…,Germany,Meerbusch,51.2652237,6.6760958,Düsseldorf
+176,Go Silicon Valley,Germany,Berlin,52.510885,13.3989367,Berlin
+177,Greenpact,France,Lyon,45.7578137,4.8320114,Lyon
+178,Grow F by Female Founders,Austria,Vienna,48.2083537,16.3725042,Wien
+179,GU Ventures,Sweden,Gothenburg,57.7072326,11.9670171,Göteborg
+180,Gumption,Belgium,Antwerp,51.2211097,4.3997081,Antwerpen
+181,H-Farm,Italy,Roncade,45.6279075,12.3747797,Venezia
+182,H+ Digital Health Innovatio…,Germany,Munich,48.1371079,11.5753822,München
+184,healthstart madri+d,Spain,Madrid,40.4167047,-3.7035825,Madrid
+185,HEC Incubator,France,Jouy-En-Josas,48.76464,2.1684529,Paris
+186,Helios.hub,Germany,Berlin,52.510885,13.3989367,Berlin
+187,High-Tech SeedLab,Germany,Berlin,52.510885,13.3989367,Berlin
+189,Hub:raum,Germany,Berlin,52.510885,13.3989367,Berlin
+190,HUB612,France,Lyon,45.7578137,4.8320114,Lyon
+191,Huge Thing,Poland,Warsaw,52.2319581,21.0067249,Warszawa
+192,Humboldt Innovation,Germany,Berlin,52.510885,13.3989367,Berlin
+193,I3P - Innovative Companies …,Italy,Turin,45.0677551,7.6824892,Torino
+194,Ideon Innovation,Sweden,Lund,55.7029296,13.1929449,Malmö
+195,Imagination machine,France,Nantes,47.2186371,-1.5541362,Nantes
+196,Imagine2030 Mobility Accel…,Germany,Berlin,52.510885,13.3989367,Berlin
+197,imec.istart,Belgium,Ghent,51.0538286,3.7250121,Gent
+198,IMPACT Accelerator,Spain,Santa María,42.3933908,-0.7426006,Zaragoza
+199,IMPACT EdTech,Spain,Madrid,40.4167047,-3.7035825,Madrid
+200,Impact Hub,Austria,Vienna,48.2083537,16.3725042,Wien
+201,Impact Hub Milano,Italy,Milan,45.4641943,9.1896346,Milano
+202,IMPACT POLAND,Poland,Warsaw,52.2319581,21.0067249,Warszawa
+203,IMT Starter,France,Évry,48.6241665,2.4289667,Paris
+204,INCENSe,Italy,Rome,41.8933203,12.4829321,Roma
+205,INCUBA,Denmark,Aarhus,56.1496278,10.2134046,Århus
+206,Incubateur Gate1,France,Grenoble,45.1875602,5.7357819,Grenoble
+207,Indico Founders Program p…,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+208,Innogy Innovation Hub,Germany,Essen,51.4582235,7.0158171,Ruhrgebiet
+209,INNOLAB Bilbao,Spain,Bilbao,43.2630018,-2.9350039,Bilbao
+210,Innovx - BCR,Romania,Bucharest,44.4361414,26.1027202,Bucureşti
+211,Inovexus,France,Paris,48.8534951,2.3483915,Paris
+212,INOVISA,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+213,InsurTech Hub Munich,Germany,Munich,48.1371079,11.5753822,München
+214,Intelectium,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+215,Intellitext,Hungary,Budapest,47.4978789,19.0402383,Budapest
+217,Intesa Sanpaolo Innovation …,Italy,Turin,45.0677551,7.6824892,Torino
+218,Ioda Consulting,France,Aubagne,43.2924385,5.5703031,Marseille
+219,ISDI Accelerator,Spain,Madrid,40.4167047,-3.7035825,Madrid
+220,Kamet Ventures,France,Paris,48.8534951,2.3483915,Paris
+221,Kiuas,Finland,Helsinki,60.1674881,24.9427473,Helsinki/Helsingfors
+222,KPT ScaleUP,Poland,Kraków,50.0619474,19.9368564,Kraków
+223,L'Accélérateur ESS - HEC Paris,France,Paris,48.8534951,2.3483915,Paris
+224,Lanzadera,Spain,Valencia,39.4697065,-0.3763353,Valencia
+225,Lánzate,Spain,Madrid,40.4167047,-3.7035825,Madrid
+226,Lazio Innova,Italy,Rome,41.8933203,12.4829321,Roma
+227,Lazio Innova (ESA BIC Lazio),Italy,Rome,41.8933203,12.4829321,Roma
+228,Le Village by CA,France,Rennes,48.1113387,-1.6800198,Rennes
+229,LEAD (Business Incubator),Sweden,Linköping,58.4098135,15.6245252,Linköping
+230,LeAD Sports Accelerator,Germany,Berlin,52.510885,13.3989367,Berlin
+231,LeanSquare,Belgium,Liège,50.6450944,5.5736112,Liège
+232,Leap Forward,Denmark,Copenhagen,55.6867243,12.5700724,København
+233,Leap Venture Studio,Belgium,Brussels,50.8465573,4.351697,Mechelen
+234,Lemmings.io,Austria,Vienna,48.2083537,16.3725042,Wien
+235,Leonard,France,Paris,48.8534951,2.3483915,Paris
+236,LMU Entrepreneurship Center,Germany,Munich,48.1371079,11.5753822,München
+237,LU Innovation,Sweden,Lund,55.7029296,13.1929449,Malmö
+238,LUISS EnLabs,Italy,Rome,41.8933203,12.4829321,Roma
+239,Makesense,France,Paris,48.8534951,2.3483915,Paris
+240,Mango StartUp Studio,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+241,Maria 01,Finland,Helsinki,60.1674881,24.9427473,Helsinki/Helsingfors
+242,Maze X,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+243,MD Start Accelerator,France,Paris,48.8534951,2.3483915,Paris
+244,Media Lab Bayern,Germany,Munich,48.1371079,11.5753822,München
+246,Merantix,Germany,Berlin,52.510885,13.3989367,Berlin
+247,METRO Accelerator,Germany,Berlin,52.510885,13.3989367,Berlin
+248,Minc,Sweden,Malmo,55.6052931,13.0001566,Malmö
+249,MIT Enterprise Forum CEE,Poland,Warsaw,52.2319581,21.0067249,Warszawa
+250,MKB Fintechlab,Hungary,Budapest,47.4978789,19.0402383,Budapest
+251,MobilityXlab,Sweden,Gothenburg,57.7072326,11.9670171,Göteborg
+252,MotionLab.Berlin,Germany,Berlin,52.510885,13.3989367,Berlin
+253,Münchner Technologiezentr…,Germany,Munich,48.1371079,11.5753822,München
+254,MventuresBcn,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+256,NAStartUp,Italy,Naples,40.8358846,14.2487679,Napoli
+257,NCA,Germany,Hamburg,53.550341,10.000654,Hamburg
+258,NCI,France,Rouen,49.4404591,1.0939658,Rouen
+259,NDRC,Ireland,Dublin,53.3493795,-6.2605593,Dublin
+261,Next Big Thing AG,Germany,Berlin,52.510885,13.3989367,Berlin
+263,NMA.vc,Germany,Hamburg,53.550341,10.000654,Hamburg
+264,Nordic XR Startups,Finland,Helsinki,60.1674881,24.9427473,Helsinki/Helsingfors
+265,Norrsken Impact Accelerator,Sweden,Stockholm,59.3251172,18.0710935,Stockholm
+266,NUMA,France,Paris,48.8534951,2.3483915,Paris
+267,OSS VENTURES,France,Paris,48.8534951,2.3483915,Paris
+268,Overkill Ventures,Latvia,Riga,56.9493977,24.1051846,Riga
+269,Paralect Accelerator,Poland,Warsaw,52.2319581,21.0067249,Warszawa
+270,Paris&Co,France,Paris,48.8534951,2.3483915,Paris
+271,PARSEC Accelerator,Belgium,Brussels,50.8465573,4.351697,Mechelen
+272,PHINEO Startups,Germany,Berlin,52.510885,13.3989367,Berlin
+273,Plant 4.0 Team,France,Paris,48.8534951,2.3483915,Paris
+275,Platform6,Finland,Tampere,61.4980214,23.7603118,Tampere/Tammerfors
+276,PlayStation Talents Games C…,Spain,Bilbao,43.2630018,-2.9350039,Bilbao
+277,Pole Capital,France,Paris,48.8534951,2.3483915,Paris
+278,Polihub,Italy,Milan,45.4641943,9.1896346,Milano
+280,Profund Innovation - Startu…,Germany,Berlin,52.510885,13.3989367,Berlin
+281,ProSiebenSat.1 Accelerator,Germany,Munich,48.1371079,11.5753822,München
+282,Protechting,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+283,Prototron,Estonia,Tallinn,59.4372155,24.7453688,Tallinn
+284,ProVeg,Germany,Berlin,52.510885,13.3989367,Berlin
+285,ProVeg Incubator,Germany,Berlin,52.510885,13.3989367,Berlin
+287,RAISE Sherpas,France,Paris,48.8534951,2.3483915,Paris
+288,REAKTOR.BERLIN,Germany,Berlin,52.510885,13.3989367,Berlin
+289,Red Electrica - GRID2030,Spain,Madrid,40.4167047,-3.7035825,Madrid
+290,RESPOND Accelerator,Germany,Munich,48.1371079,11.5753822,München
+291,RootCamp - A SpinLab Incu…,Germany,Hanover,52.3744779,9.7385532,Hannover
+293,Ruhr:Hub,Germany,Essen,51.4582235,7.0158171,Ruhrgebiet
+294,RWTH Aachen Incubator,Germany,Aachen,50.776351,6.083862,Aachen
+295,Sacyr iChallenges,Spain,Madrid,40.4167047,-3.7035825,Madrid
+296,Salesbridge Co.,Poland,Warsaw,52.2319581,21.0067249,Warszawa
+297,Sampo Accelerator,Finland,Espoo,60.2049651,24.6559808,Helsinki/Helsingfors
+298,Sanitas Disruptive,Spain,Madrid,40.4167047,-3.7035825,Madrid
+299,Santalucía IMPULSA,Spain,Madrid,40.4167047,-3.7035825,Madrid
+300,Sap.iO,Germany,Munich,48.1371079,11.5753822,München
+301,Sardegna Ricerche,Italy,Pula,39.007433,9.001646,Cagliari
+302,Scal'E-nov,France,Mulhouse,47.7467233,7.3389937,Mulhouse
+304,Seed Starter SK,Slovakia,Bratislava,48.1516988,17.1093063,Bratislava
+305,SeedRocket,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+306,Segulah Medical,Sweden,Stockholm,59.3251172,18.0710935,Stockholm
+307,SEK Lab EdTech Accelerator,Spain,Madrid,40.4167047,-3.7035825,Madrid
+308,SEMIA,France,Strasbourg,48.584614,7.7507127,Strasbourg
+309,SenseCube,France,Paris,48.8534951,2.3483915,Paris
+310,Ship2B Foundation,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+311,Siemens Technology Acceler…,Germany,Munich,48.1371079,11.5753822,München
+312,SmartAgriFood,Belgium,Brussels,50.8465573,4.351697,Mechelen
+314,SmiLe Incubator,Sweden,Lund,55.7029296,13.1929449,Malmö
+315,SocialFare,Italy,Turin,45.0677551,7.6824892,Torino
+316,SocialFare Seed,Italy,Turin,45.0677551,7.6824892,Torino
+317,SoftBank Emerge Accelerator,France,Paris,48.8534951,2.3483915,Paris
+318,SOUL-FI,Portugal,Coimbra,40.2111931,-8.4294632,Coimbra
+320,Space Academy,Spain,Malaga,36.7213028,-4.4216366,Málaga
+321,Space3ac,Poland,Gdansk,54.3706858,18.6129831,Gdańsk
+322,SpaceFounders,France,Toulouse,43.6044622,1.4442469,Toulouse
+323,Spain Foodtech,Spain,Madrid,40.4167047,-3.7035825,Madrid
+324,SpeedUP! Europe,Germany,Schleswig,54.51851,9.5653284,Flensburg
+325,Spherik Accelerator,Romania,Cluj-Napoca,46.769379,23.5899542,Cluj-Napoca
+326,SpinLab,Germany,Leipzig,51.3406321,12.3747329,Leipzig
+327,Spinoutlab,Finland,Tampere,61.4980214,23.7603118,Tampere/Tammerfors
+328,STARBUZZ,Germany,Mülheim an…,51.4272925,6.8829192,Ruhrgebiet
+329,Start it @KBC,Belgium,Leuven,50.879202,4.7011675,Bruxelles/Brussel/Leuven
+330,Starter Business Acceleration,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+332,StartinLV,Latvia,Riga,56.9493977,24.1051846,Riga
+334,Startport,Germany,Duisburg,51.434999,6.759562,Krefeld
+335,StartSmart CEE,Poland,Warsaw,52.2319581,21.0067249,Warszawa
+336,StartUp Alcobendas,Spain,Madrid,40.4167047,-3.7035825,Madrid
+337,Startup Autobahn,Germany,Stuttgart,48.7784485,9.1800132,Stuttgart
+338,Startup Braga,Portugal,Braga,41.5510583,-8.4280045,Braga
+339,Startup Creasphere,Germany,Munich,48.1371079,11.5753822,München
+340,Startup Incubator Berlin,Germany,Berlin,52.510885,13.3989367,Berlin
+341,Startup Lisboa,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+342,Startup Live,Austria,Vienna,48.2083537,16.3725042,Wien
+344,StartUp Sintra,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+345,Startup Spark,Poland,Łódź,51.7687323,19.4569911,Łódź
+346,Startup Valencia,Spain,Valencia,39.4697065,-0.3763353,Valencia
+347,Startup Wise Guys,Estonia,Tallinn,59.4372155,24.7453688,Tallinn
+348,Startup300,Austria,Linz,48.3059078,14.286198,Linz
+350,Startupgym,Italy,Milan,45.4641943,9.1896346,Milano
+352,STING,Sweden,Stockholm,59.3251172,18.0710935,Stockholm
+353,Sting,Sweden,Stockholm,59.3251172,18.0710935,Stockholm
+354,Sting bio economy,Sweden,Karlstad,59.3809146,13.5027631,Örebro
+355,Strascheg Center for Entrepr…,Germany,Munich,48.1371079,11.5753822,München
+356,Strascheg Center for Entrepr…,Germany,Munich,48.1371079,11.5753822,München
+357,Take Off,Italy,Milan,45.4641943,9.1896346,Milano
+358,Takeoff Accelerator,Italy,Turin,45.0677551,7.6824892,Torino
+359,Tec Labs,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
+360,Techcelerator.ro,Romania,Bucharest,44.4361414,26.1027202,Bucureşti
+361,TechFounders,Germany,Munich,48.1371079,11.5753822,München
+362,Techno'Start,France,Mérignac,44.842168,-0.6469022,Bordeaux
+363,TechnoFounders,France,Paris,48.8534951,2.3483915,Paris
+365,TechQuartier,Germany,Frankfurt,50.1106444,8.6820917,Frankfurt am Main
+366,Techstars Berlin,Germany,Berlin,52.510885,13.3989367,Berlin
+367,Techstars Paris,France,Paris,48.8534951,2.3483915,Paris
+368,TECNALIA Ventures,Spain,Derio,43.2907714,-2.8870439,Bilbao
+369,Terkko Health Hub,Finland,Helsinki,60.1674881,24.9427473,Helsinki/Helsingfors
+370,Terra Next Accelerator,Italy,Milan,45.4641943,9.1896346,Milano
+371,Tesonet,Lithuania,Vilnius,54.6870458,25.2829111,Vilnius
+372,Tetuan Valley,Spain,Madrid,40.4167047,-3.7035825,Madrid
+373,The Blue Minds Company,Austria,Vienna,48.2083537,16.3725042,Wien
+374,The Collider,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+375,The Delta,Germany,Berlin,52.510885,13.3989367,Berlin
+376,The Faktory,Belgium,Liège,50.6450944,5.5736112,Liège
+378,The Qube Accelerator,Italy,Lecce,40.1522173,18.2260628,Lecce
+379,Thinkubator,Denmark,Copenhagen,55.6867243,12.5700724,København
+381,Toscana Life Sciences,Italy,Siena,43.1672059,11.467561,Arezzo
+382,TU Wien Innovation Incubat…,Austria,Vienna,48.2083537,16.3725042,Wien
+383,Turbiini,Finland,Vantaa,60.2933337,25.0407809,Helsinki/Helsingfors
+384,UCD VentureLaunch Acceler…,Ireland,Dublin,53.3493795,-6.2605593,Dublin
+385,Uminova Innovation,Sweden,Umeå,63.8256568,20.2630745,Umeå
+386,UniCredit Start Lab FinTech …,Italy,Milan,45.4641943,9.1896346,Milano
+387,Universidade De Aveiro Incu…,Portugal,Ílhavo,40.6001108,-8.6666667,Aveiro
+388,Universidade de Aveiro Incu…,Portugal,Ílhavo,40.6001108,-8.6666667,Aveiro
+391,UPTEC – Science and Techn…,Portugal,Porto,41.1494512,-8.6107884,Porto
+392,Venture Basecamp,Germany,Munich,48.1371079,11.5753822,München
+393,Vertical Health Accelerator,Finland,Helsinki,60.1674881,24.9427473,Helsinki/Helsingfors
+394,Vertical.vc,Finland,Helsinki,60.1674881,24.9427473,Helsinki/Helsingfors
+395,Vision Health Pioneers,Germany,Berlin,52.510885,13.3989367,Berlin
+396,VITA Accelerator,Italy,"Salerno, Italy",40.67545,14.79328,Battipaglia
+397,Vittoria Hub,Italy,Milan,45.4641943,9.1896346,Milano
+398,Vivero de Empresas de Mós…,Spain,Madrid,40.4167047,-3.7035825,Madrid
+399,WATTx,Germany,Berlin,52.510885,13.3989367,Berlin
+400,Wayra Germany,Germany,Munich,48.1371079,11.5753822,München
+401,We Are Grit,Spain,Barcelona,41.3828939,2.1774322,Barcelona
+402,WERK1,Germany,Munich,48.1371079,11.5753822,München
+403,Wilco,France,Paris,48.8534951,2.3483915,Paris
+406,Wrocław Technology Park,Poland,Wroclaw,51.1089776,17.0326689,Wrocław
+407,Wylab,Italy,Chiavari,44.3164494,9.3233382,La Spezia
+408,XDECK,Germany,Cologne,50.938361,6.959974,Köln
+409,xEdu,Finland,Helsinki,60.1674881,24.9427473,Helsinki/Helsingfors
+410,Xpreneurs,Germany,Munich,48.1371079,11.5753822,München
+412,Zagatub,France,Paris,48.8534951,2.3483915,Paris
+413,ZERO,Italy,Rome,41.8933203,12.4829321,Roma
+414,Zero Acceleratore,Italy,Rome,41.8933203,12.4829321,Roma
+415,Zero Gravity,Portugal,Lisbon,38.7077507,-9.1365919,Lisboa
