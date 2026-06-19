@@ -6,7 +6,8 @@ Achieving climate neutrality requires rapid deployment and commercialization of 
 
 This project analyzes startup ecosystems, investment activity, corporate R&D spending, and regional innovation infrastructure across Europe to identify the strongest clean-energy innovation hubs.
 
-The work was presented at the 50th Eurasian Business and Economics Society (EBES) Conference in Lisbon, Portugal.
+The work was presented at the 50th Eurasian Business and Economics Society (EBES) Conference in Lisbon, Portugal. (Achieving Climate Neutrality: 
+Analyzing EU Clean Energy Efforts, Innovations, and Investments)
 
 ## Research Questions
 
