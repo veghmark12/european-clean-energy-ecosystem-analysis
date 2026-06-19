@@ -56,5 +56,30 @@ EU accelerators and incubators, clustered to FUAs:
 Top 100 EU universities, clustered to FUAs:
 <img width="733" height="571" alt="image" src="https://github.com/user-attachments/assets/73db1ba1-7ace-40da-ae06-9b512b67b41b" />
 
-Based on these 4 criteria a ranking methodology was developed which resulted in these top 5 clean energy innovation hubs:
-Paris, Berlin, Madrid, Helsinki, Amsterdam
+## Key Findings
+
+- Identified more than 500 clean-energy scaleups through NLP-based classification.
+- Analyzed over €24 billion in clean-energy funding activity.
+- Mapped regional innovation ecosystems across Europe.
+- Developed a ranking methodology for clean-energy innovation hubs.
+- Found Paris, Berlin, Madrid, Helsinki, and Amsterdam to be among the strongest clean-energy ecosystems.
+
+## Technologies Used
+
+- Python
+- pandas
+- NumPy
+- scikit-learn
+- GeoPandas
+- matplotlib
+- Jupyter Notebook
+
+## Academic Output
+
+Presented at:
+
+50th Eurasian Business and Economics Society (EBES) Conference
+Lisbon, Portugal
+
+Paper:
+Achieving Climate Neutrality: Analyzing EU Clean Energy Efforts, Innovations, and Investments
