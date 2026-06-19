@@ -44,10 +44,17 @@ Analyzing EU Clean Energy Efforts, Innovations, and Investments)
 - Developed a composite ranking methodology
 - Evaluated startup density, funding activity, research infrastructure, and ecosystem support organizations
 
+EU clean energy scaleups clustered to Functional Urban Areas (FUAs):
 <img width="733" height="571" alt="image" src="https://github.com/user-attachments/assets/7c43ff69-9a76-4963-8af9-e1d61e1fc051" />
 
+Clean energy scaleup investors from the EU, clustered to FUAs:
 <img width="733" height="571" alt="image" src="https://github.com/user-attachments/assets/814171a2-c8b0-4fef-8351-3da67b1e7051" />
 
+EU accelerators and incubators, clustered to FUAs:
 <img width="733" height="571" alt="image" src="https://github.com/user-attachments/assets/8b4c7e2d-4f68-4e98-850e-fee3dd33049b" />
 
+Top 100 EU universities, clustered to FUAs:
 <img width="733" height="571" alt="image" src="https://github.com/user-attachments/assets/73db1ba1-7ace-40da-ae06-9b512b67b41b" />
+
+Based on these 4 criteria a ranking methodology was developed which resulted in these top 5 clean energy innovation hubs:
+Paris, Berlin, Madrid, Helsinki, Amsterdam
